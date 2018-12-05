@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+body{
+	background-image: url("sti_web_background.gif");
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	width: 100%;
+	height: 100%;
+}
